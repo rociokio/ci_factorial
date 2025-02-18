@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import unittest
 from src.funciones import factorial
 
