@@ -24,7 +24,7 @@ class TestFactorial(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-=======
+
 import unittest
 from src.funciones import factorial
 
@@ -50,4 +50,4 @@ class TestFactorial(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
->>>>>>> f22c6e39cf5e011672f13dc451ef8c8c03fce8ab
+ 
